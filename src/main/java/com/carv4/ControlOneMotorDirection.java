@@ -9,7 +9,7 @@ import com.pi4j.io.gpio.GpioController;
  * Controls motor direction of a two DC motors
  * @author https://javatutorial.net
  */
-public class ControlTwoMotorsDirection {
+public class ControlOneMotorDirection {
 
     public static void main(String[] args) throws InterruptedException {
         // get a handle to the GPIO controller
